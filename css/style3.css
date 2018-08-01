@@ -1,0 +1,29 @@
+body{
+	background-color: #F0F1F3 ;
+
+}
+#optionBar{
+	
+width: 85%;
+
+margin: auto;
+margin-top: 49px;
+background-color: #D6DBDF  ;
+
+}
+#texta{
+ margin-left: 100px;
+ margin-top: 13px;
+}
+.boldd{
+	font-weight: bold;
+}
+.italicc{
+	font-style: italic;
+}
+.underlinedd{
+	text-decoration: underline;
+}
+.centred{
+     text-align: center;
+}
